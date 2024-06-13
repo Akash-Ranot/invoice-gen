@@ -2,7 +2,7 @@
 
 
 
-An Invoice Generator project built with React and TailwindCSS. Add items, quantity, prices, tax rates and discounts. Download Generated Invoices as PDFs to your device and print out.
+An Invoice Generator project built with React . Add items, quantity, prices, tax rates and discounts. Download Generated Invoices as PDFs to your device and print out.
 
 
 
